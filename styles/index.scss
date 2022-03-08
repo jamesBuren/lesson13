@@ -1,0 +1,9 @@
+@use 'fonts';
+
+@import 'img'; 
+@import 'main'; 
+
+
+body {
+    font-family: fonts.$main-font;
+}

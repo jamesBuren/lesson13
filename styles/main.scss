@@ -15,10 +15,20 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
   margin-top: 264px;
+  color: #ddd;
 
 }
 
+.header_h1 {
+  font-size: 48px;
+  line-height: 26px;
+}
 
+.header_h2 {
+  font-size: 22px;
+  line-height: 26px;
+  font-style: normal;
+}
 
 
 
@@ -89,34 +99,34 @@ body {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-float: left;
-color: #f2f2f2;
-text-align: center;
-padding: 25px 15px;
-text-decoration: none;
-font-size: 17px;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 25px 15px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-background-color: #ddd;
-color: black;
+  background-color: #ddd;
+  color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-font-family: 'Josefin Sans', sans-serif;
-font-size: 24px;
-line-height: 26px;
-color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+  line-height: 26px;
+  color: white;
 }
 
 /* Right-aligned section inside the top navigation */
 .topnav-right {
-font-family: 'Aleo', serif;
-font-size: 14px;
-line-height: 26px;
-float: right;
+  font-family: 'Aleo', serif;
+  font-size: 14px;
+  line-height: 26px;
+  float: right;
 }
 
 .arrow-text {
